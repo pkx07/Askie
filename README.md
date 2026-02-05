@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center;">
   <img src="static/logo.svg" alt="问匣LOGO" width="32" height="32" style="margin-right: 10px;">
-  <h1 style="margin: 0;">问匣</h1>
+  <h1 style="margin: 0;">问匣Askie</h1>
 </div>
 
 
